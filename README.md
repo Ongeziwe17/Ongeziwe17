@@ -1,7 +1,8 @@
 - 👋 Hi, I’m @Ongeziwe17
-- 👀 I’m interested in Sofware Engineering, Data Science and Artificial Intelligence.
-- 🌱 I’m currently learning Information and Communications Technology in Applications Development
-- 💞️ I’m looking to collaborate on Software Development projects using Java, JavaSript and Python programming language
+- 👀 I’m passionate about Software Engineering, Cloud Solutions, and Artificial Intelligence
+- 🌱 Currently studying Information and Communications Technology in Applications Development
+- 🌹 A dedicated fan of open-source development
+- 💻 Looking to collaborate on software projects using Java, JavaScript, Python, and Cloud Solutions
 - 📫 How to reach me: ongeziwejunior6@gmail.com
 
 <!---
