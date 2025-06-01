@@ -1,15 +1,15 @@
-### 👋 Hi there, I'm Ongeziwe (@Ongeziwe17)
+### 👋 Hi there, I'm Ongeziwe J. Mtolo (Ongeziwe17)
 
-I'm a passionate and driven ICT graduate student specializing in **DevOps**, **Cloud Engineering**, and **Software Development**. I'm currently gaining hands-on experience as a DevOps Graduate at one of Africa’s leading betting solutions companies.
+I'm a passionate and driven ICT graduate student specializing in **DevOps Engineering**, **Cloud Engineering**, and **Software Development**. I'm currently gaining hands-on experience as a DevOps Engineer Graduate at one of Africa’s leading betting solutions company.
 
 🚀 **What I’m About**  
-- 🧠 Passionate about **DevOps practices**, **Cloud Solutions (AWS | Azure | GCP)**, and **Software Engineering**  
-- 💻 Skilled in **Java**, **Python**, and modern **DevOps tooling**  
-- ⚙️ Exploring **CI/CD pipelines**, **Infrastructure as Code (IaC)**, and **Containerization (Docker & Kubernetes)**  
-- 🌱 Currently studying **ICT in Applications Development** at Cape Peninsula University of Technology  
-- 🌹 Strong advocate of open-source collaboration and continuous improvement  
+- 🧠 Passionate about **DevOps practices**, **Cloud Solutions (AWS | Azure | GCP | IBM)**, and **Software Engineering**  
+- 💻 Skilled in **Java**, **Python**, and modern **DevOps tooling (Scripting | Version Control | Containerization | GitHub Workflows and ADO Pipelines)**  
+- ⚙️ Exploring **CI/CD pipelines**, **Infrastructure as Code (IaC)**, and **Containerization and Orchestration (Docker & Kubernetes)**  
+- 🌱 Currently studying **ICT in Applications Development - Advanced Diploma** level at Cape Peninsula University of Technology  
+- 🌹 Strong advocate of open-source collaboration and continuous improvement 
 
-🤝 **Let’s Build Together**  
+🤝 **Let’s Collaborate and Build Together**  
 I'm always open to collaborating on impactful projects using modern development and cloud technologies. If you're building something innovative in the DevOps or Cloud space, let’s connect!
 
 📫 Reach me: ongeziwejunior6@gmail.com
